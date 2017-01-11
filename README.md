@@ -1,1 +1,1 @@
-A Python project for the Spotify search function. Lists the first 25 songs of a user's search in order of popularity. Uses the <a href="https://github.com/plamere/spotipy">Spotipy</a> client for The Spotify Web API.
+A Python project for the Spotify search function. Modified the search functionality of Spotify to list the first 25 results of a user's search query by all-time popularity. Uses the <a href="https://github.com/plamere/spotipy">Spotipy</a> client for The Spotify Web API.
