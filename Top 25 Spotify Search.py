@@ -20,7 +20,7 @@ def playSearch():
         name = []
         artists = []
         r = getUserInput()
-        results = sp.search(q=r, limit=40) #searches for the string that the user inputs
+        results = sp.search(q=r, limit=25) #searches for the string that the user inputs
         if(r.upper() == 'NO'):
             print('Enjoy your day')
             return False
